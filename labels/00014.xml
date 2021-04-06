@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Captive Asian Hornets</folder>
+	<filename>ASIAN_HORNET-01D4D0106391BD5F9F21FC850BEA2942.png</filename>
+	<path>C:\Users\Amber\OneDrive - University of Exeter\Documents\research project\asianhornets\Captive Asian Hornets\ASIAN_HORNET-01D4D0106391BD5F9F21FC850BEA2942.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AsianHornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>342</ymin>
+			<xmax>704</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AsianHornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>703</ymin>
+			<xmax>955</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AsianHornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1265</xmin>
+			<ymin>956</ymin>
+			<xmax>1424</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
